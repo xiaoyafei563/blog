@@ -13,7 +13,7 @@
 * [7.日志收集](7.-ri-zhi-shou-ji.md)
 * [8.自动化运维工具](8.-zi-dong-hua-yun-wei-gong-ju.md)
 * [9.持续集成](9.-chi-xu-ji-cheng/README.md)
-  * [9.1.GitLab](9.-chi-xu-ji-cheng/9.1.gitlab/README.md)
+  * [9.1.GitLab](9.-chi-xu-ji-cheng/9.1.gitlab.md)
     * [9.3.自动备份脚本](9.-chi-xu-ji-cheng/9.1.gitlab/9.3.-zi-dong-bei-fen-jiao-ben.md)
   * [9.2.Jenkins](9.-chi-xu-ji-cheng/9.2.jenkins.md)
 * [10.容器技术](10.-rong-qi-ji-shu.md)
